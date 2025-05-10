@@ -62,7 +62,7 @@ const checkBlackFillPercentage = () => {
 
     const blackFillPercentage = blackPixelCount * 100 / (canvasWidth * canvasHeight);
 
-    if (blackFillPercentage >= 35) {
+    if (blackFillPercentage >= 30) {
         $('#resetBtn').removeClass('d-none')
         scratchCardCoverContainer.classList.add('clear');
         confetti({
