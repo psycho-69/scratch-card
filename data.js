@@ -14,7 +14,7 @@ var dataArr = [
 	"boys-on-the-side-animated.gif", "butter-churner-animated.gif", "butterfly-animated.gif", "cats-meow-for-cowgirl.gif",
 	"chair-lift-animated.gif", "cowboy-animated.gif", "crouching-tiger-animated-1.gif", "deep-impact-animated.gif",
 	"delicious-for-doggy.gif", "banan-split.gif", "wheel-barrow.gif", "full-nelson.gif", "easy-rider-animated.gif",
-	"elephant-animated.gif", "prone-bone-1.gif", "prone-bone-2.gif", "face-to-face-animated.gif", "filenames.txt",
+	"elephant.gif", "prone-bone-1.gif", "prone-bone-2.gif", "face-to-face-animated.gif", "filenames.txt",
 	"flatiron-animated.gif", "footsie-animated.gif", "frog-animated.gif", "from-ball-to-wall-animated.gif", "handy-69-animated.gif",
 	"head-rush-animated.gif", "heaven-knows-animated.gif", "highway-to-heaven-animated.gif", "hot-and-spicy-animated.gif",
 	"hula-girl-animated.gif", "KAMA-31.gif", "kissing-the-pink-animated.gif", "ladies-choice-animated.gif", "launch-pad-animated.gif",
