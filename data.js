@@ -38,3 +38,4 @@ var dataArr = [
 // https://cumception.com/photos/animated-gifs-of-sex-positions/
 // https://sex-positions.online/en-GB/positions/aktivna-zhenschina/
 // https://www.sexualpositionsfree.com/animated.html -- https://www.sexualpositionsfree.com/captain-sex-position.html
+// https://www.katestube.com/videos/2502363/3-best-sex-positions-for-easy-g-spot-orgasms/
